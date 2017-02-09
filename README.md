@@ -1,1 +1,1 @@
-# oracle
+Relación de .sql usados (PRUEBAS)
